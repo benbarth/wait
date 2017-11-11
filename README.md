@@ -39,8 +39,8 @@ waiter.WaitUntilDone();
 ```
 
 
-# Found a bug?
+## Found a bug?
 Whoops! You can log an issue here: https://github.com/benbarth/wait/issues.
 
-# Contribute
+## Contribute
 If you have a bug fix or performance improvement you can submit a pull request here: https://github.com/benbarth/wait/pulls.
