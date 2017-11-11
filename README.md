@@ -6,7 +6,7 @@ An obsessively simple and performant library for protecting critical sections.
 
 Let's look at some examples! Wait can be used using `Wait.On()` or `Wait.GetWaiter()`.
 
-#### Wait.On()
+### Wait.On()
 ```
 Wait.On("critical section", () =>
 {
@@ -24,7 +24,7 @@ new Thread(() =>
 }).Start();
 ```
 
-#### Wait.GetWaiter()
+### Wait.GetWaiter()
 ```
 Waiter waiter = Wait.GetWaiter();
 
@@ -37,3 +37,10 @@ new Thread(() =>
 waiter.WaitUntilDone();
 // Download is done
 ```
+
+
+# Found a bug?
+Whoops! You can log an issue here: https://github.com/benbarth/wait/issues.
+
+# Contribute
+If you have a bug fix or performance improvement you can submit a pull request here: https://github.com/benbarth/wait/pulls.
