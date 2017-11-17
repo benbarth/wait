@@ -38,9 +38,11 @@ waiter.WaitUntilDone();
 // Download is done
 ```
 
+## NuGet
+The latest release can be found on NuGet. https://www.nuget.org/packages/wait
 
 ## Found a bug?
-Whoops! You can log an issue here: https://github.com/benbarth/wait/issues.
+Whoops! You can log the issue here: https://github.com/benbarth/wait/issues.
 
 ## Contribute
-If you have a bug fix or performance improvement you can submit a pull request here: https://github.com/benbarth/wait/pulls.
+If you would like to contribute a bug fix or performance improvement you can submit a pull request here: https://github.com/benbarth/wait/pulls.
