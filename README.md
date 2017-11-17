@@ -1,6 +1,7 @@
 # wait
 An obsessively simple and performant library for protecting critical sections.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![NuGet](https://img.shields.io/nuget/dt/wait.svg)](https://www.nuget.org/packages/wait/)
 
 
